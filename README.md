@@ -6,8 +6,8 @@ Intern Manager: Ameya Gawde
 Intern Director: Clare Yip  
 Peer(s): Adam Chappell, Ishan Balar  
 
-PROJECT PLAN: [Project Plan Link](https://docs.google.com/document/d/1yJAaHYRjUmNfyMlAP3B_knjqcTrbnj4WAi232rQQ_CU/edit?usp=sharing)
-
+### PROJECT PLAN: [Project Plan Link](https://docs.google.com/document/d/1yJAaHYRjUmNfyMlAP3B_knjqcTrbnj4WAi232rQQ_CU/edit?usp=sharing)
+### DEMO : [Demo](https://drive.google.com/file/d/1DETInicyA88unRypztabYwnVn295I3TL/view?usp=sharing)
 ---
 
 ## Overview
